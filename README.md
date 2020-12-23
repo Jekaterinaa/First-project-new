@@ -12,3 +12,5 @@ HDD: 237.00 GB <br/>
 |10000               | 0.459018 s | 0.517759 s | 0.240593 s | 0.12372 s | 6.15613 s | 3.70593 s |
 |100000              | 4.91634 s | 3.63084 s | 2.26144 s | 1.06545 s | 23.8967 s | 11.5192 s |
 |1000000             | 65.5192 s | 36.8776 s | 29.2887 s | 11.5433 s | 185.741 s | 87.8045 s |
+<br/>
+Versija V0.5 (su list'u) veikia greičiau negu versija V0.4 (su vektoriumi), ypač skirtumas matosi, kai studentų yra labai daug, pvz. 1000000. Iš laikų duomenų, pavaizduotų lentelėje, galima daryti išvadą, kad yra geriau programą realizuoti su list'u, negu su vektoriumi.
